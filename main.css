@@ -114,6 +114,10 @@ main{
     flex-wrap: wrap;
 }
 
+.btns:hover {
+    background-color: rgb(6, 208, 6) !important;
+}
+
 a {
     text-decoration: none;
     color: #f5f5f5;
@@ -159,6 +163,10 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;    
+}
+
+.bricks:hover {
+    background-color: yellow !important;
 }
 
 @keyframes scroll-left {
